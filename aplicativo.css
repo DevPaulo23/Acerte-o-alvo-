@@ -1,0 +1,14 @@
+body{
+  background-image: url('f.jpg');
+}
+
+.play{
+  width: 250px;
+  border-radius: 80px;
+  height: 60px;
+  font-size: 32px;
+  color:black;
+  border-color: #42445A;
+  background-color:#FFCD09;
+  font-family: italic;
+}

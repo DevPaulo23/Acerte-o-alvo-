@@ -1,0 +1,48 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+.aplet{
+  background-color:black;
+  width: 230px;
+  height: 230px;
+  border: 20px;
+}
+
+body{
+  background-image: url(' 6c9226a558dd876ad7827f98a2340bb0.jpg');
+}
+
+.help{
+  width: 155px;
+  height: 30px;
+  border-radius: 30px;
+  margin-left: 25px;
+  margin-top: 20px;
+  font-family: 14px;
+  border-color: black;
+  background-color: red;
+  color: white;
+}
+
+.info{
+  color: white;
+  font-size: 20px;
+}
+
+.inc{
+  width: 155px;
+  height: 30px;
+  border-radius: 30px;
+  margin-left: 25px;
+  margin-top: 20px;
+  font-family: 14px;
+  border-color: black;
+  background-color: #FFB032;
+  color:black;
+}
+
+.version{
+  color: #FF0000;
+}
